@@ -145,10 +145,10 @@
                         <div class="col-xl-7 d-flex justify-content-lg-end">
                             <div class="solial-account">
                                 <ul>
-                                    <li><a href="https://linkedin.com/">Linked in</a></li>
-                                    <li><a href="https://www.twitter.net/">Twitter</a></li>
-                                    <li><a href="https://www.instagram.com/">Instagram</a></li>
-                                    <li><a href="https://www.facebook.com/">Facebook</a></li>
+                                    <li><a href="<?=linkedin?>">Linked in</a></li>
+                                    <li><a href="<?=twitter?>">Twitter</a></li>
+                                    <li><a href="<?=instagram?>">Instagram</a></li>
+                                    <li><a href="<?=facebook?>">Facebook</a></li>
                                 </ul>
                             </div>
                         </div>

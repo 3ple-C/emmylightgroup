@@ -91,14 +91,14 @@
                 <div class="row">
                     <div class="col-lg-4 d-lg-flex d-none justify-content-end align-items-start">
                         <div class="about-left animet-images magnetic-item pt-30">
-                            <img src="assets/images/we-se-well-when-we-work-together-shot-group-businesspeople-looking-something-computer-screen-office_590464-43825.png" alt>
+                            <img src="assets/images/3f0624ab76cd688a899dbe9f19b42d5b.jpg" alt>
                         </div>
                     </div>
                     <div class="col-lg-8">
                         <div class="row g-lg-4 gy-5 align-items-xl-center">
                             <div class="col-lg-5">
                                 <div class="about-right-img animet-images magnetic-item">
-                                    <img src="assets/images/women in tech - 640x428 (1) (3).jpg " alt>
+                                    <img src="assets/images/6e48c0deccc8d545a16180a0ae5e9ab8.jpg" alt>
                                 </div>
                             </div>
                             <div class="col-lg-7">
@@ -601,12 +601,12 @@
                                             <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z" />
                                         </svg>
                                         <ul>
-                                            <li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a>
+                                            <li><a href="<?=facebook?>"><i class="bx bxl-facebook"></i></a>
                                             </li>
-                                            <li><a href="https://twitter.com/"><i class="bi bi-twitter-x"></i></a></li>
-                                            <li><a href="https://www.linkedin.com/"><i class="bx bxl-linkedin"></i></a>
+                                            <li><a href="<?=twitter?>"><i class="bi bi-twitter-x"></i></a></li>
+                                            <li><a href="<?=linkedin?>"><i class="bx bxl-linkedin"></i></a>
                                             </li>
-                                            <li><a href="https://www.instagram.com/"><i class="bx bxl-instagram-alt"></i></a></li>
+                                            <li><a href="<?=instagram?>"><i class="bx bxl-instagram-alt"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

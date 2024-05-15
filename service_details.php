@@ -10,16 +10,16 @@
                     <div class="swiper service-post-thumb-slider">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="assets/images/istockphoto-1226834422-1024x1024-transformed (1).jpeg" alt>
+                                <img src="assets/images/image-1296x573 (1).jpg" alt>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/connection-bond-connect-networking-togetherness-concept (1).jpg" alt>
+                                <img src="assets/images/image-1296x573.jpg" alt>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/istockphoto-1344939844-1024x1024-transformed (1).jpeg" alt>
+                                <img src="assets/images/image-1296x573 (3).jpg" alt>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/20221031123131_1667170461.0-- (2).jpg" alt>
+                                <img src="assets/images/image-1296x573 (2).jpg" alt>
                             </div>
                             <div class="swiper-slide">
                                 <img src="assets/images/agricultural-workers (1).jpg" alt>
@@ -119,7 +119,7 @@
 
         <div>
             <div class="post-tag-and-title mb-0">
-                <h1 class="post-title">Trade & Merchandise</h1>
+                <h1 class="post-title">General Merchandise</h1>
             </div>
             <span class="line-break"></span>
             <span class="line-break"></span>
@@ -212,100 +212,7 @@
 <!-- service slider/marquee -->
 <div class="text-slider-section two">
     <div class="marquee">
-        <div class="marquee__group">
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg> DIGITAL PRODUCT
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>DIGITAL STUDIO
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg>BRANDING DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>EMAIL MARKETING
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg>BRANDING DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>EMAIL MARKETING
-            </span>
-        </div>
-        <div class="marquee__group">
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg> DIGITAL PRODUCT
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>DIGITAL STUDIO
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg>BRANDING DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>EMAIL MARKETING
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-                    <path d="M20 9.47811L26.1809 0L25.8767 11.4983L36.1889 7.6431L29.5116 16.7508L40 20L29.5116 23.2492L36.1889 32.3569L25.8767 28.5017L26.1809 40L20 30.5219L13.8191 40L14.1233 28.5017L3.82706 32.3569L10.4884 23.2492L0 20L10.4884 16.7508L3.82706 7.6431L14.1233 11.4983L13.8191 0L20 9.47811Z" />
-                </svg>BRANDING DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>UI/UX DESIGN
-            </span>
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
-                    <circle cx="8.5" cy="8.5" r="8" stroke="#1A1A1A" />
-                </svg>EMAIL MARKETING
-            </span>
-        </div>
+        <?php include 'inc/marquee.php' ?>
     </div>
 </div>
 

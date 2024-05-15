@@ -129,13 +129,13 @@
                                 </svg>
                             </h6>
                             <ul class="social-area">
-                                <li><a href="https://linkedin.com/"><i class="bi bi-linkedin"></i> Linked In</a>
+                                <li><a href="<?=linkedin?>"><i class="bi bi-linkedin"></i> Linked In</a>
                                 </li>
-                                <li><a href="https://www.twitter.net/"><i class="bi bi-twitter-x"></i> Twitter</a>
+                                <li><a href="<?=twitter?>"><i class="bi bi-twitter-x"></i> Twitter</a>
                                 </li>
-                                <li><a href="https://www.instagram.com/"><i class="bi bi-instagram"></i>
+                                <li><a href="<?=instagram?>"><i class="bi bi-instagram"></i>
                                         Instagram</a></li>
-                                <li><a href="https://www.facebook.com/"><i class="bi bi-facebook"></i>
+                                <li><a href="<?=facebook?>"><i class="bi bi-facebook"></i>
                                         Facebook</a></li>
                             </ul>
                         </div>
@@ -201,11 +201,11 @@
                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                     </svg>
                                 </a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="portfolio.php">Portfolio </a>
                                 <span class="dropdown-icon2"><i class="bi bi-plus"></i></span>
-                            </li> -->
+                            </li>
                             <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                     </div>
@@ -258,10 +258,10 @@
                     </li>
                     <!-- <li class="menu-item-has-children">
                         <a href="blog.php" class="drop-down">Blog</a><i class="bi bi-plus dropdown-icon"></i>
-                    </li>
+                    </li>-->
                     <li class="menu-item-has-children">
                         <a href="portfolio.php" class="drop-down">Portfolio </a><i class="bi bi-plus dropdown-icon"></i>
-                    </li> -->
+                    </li> 
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>

@@ -177,7 +177,7 @@
                     <div class="col-sm-5">
                         <div class="about-left">
                             <div class="about-img magnetic-item">
-                                <img src="assets/images/medium-shot-people-travel-agency-office_23-2150801513.avif" alt>
+                                <img src="assets/images/a33a092e445d31615b11e813bbc16285.jpg" alt>
                             </div>
                             <p class="text-animation2">We stand out excellently for your service needs. We are the first stop of your solutions!! We create values, uniquely.
                             </p>
@@ -185,7 +185,7 @@
                     </div>
                     <div class="col-sm-7 d-sm-flex  d-none">
                         <div class="about-right-img animet-images magnetic-item">
-                            <img src="assets/images/pexels-divinetechygirl-1181370 (1).jpg" alt>
+                            <img src="assets/images/f8ff2b262e4bb46bdfbad821613841cd.jpg" alt>
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,6 @@
         </div>
     </div>
 </div>
-
 
 <!-- Services -->
 <div class="home2-services-section mb-130">
@@ -319,6 +318,8 @@
     </div>
 </div>
 
+<!-- Partners -->
+<!-- <?php include './inc/partners.php' ?> -->
 
 <!-- Projects -->
 <div class="home2-counter-area mb-130">
@@ -387,11 +388,11 @@
                                     <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z" />
                                 </svg>
                                 <ul>
-                                    <li class=""><a href="https://www.facebook.com/" class="border-white"><i class="bx bxl-facebook text-white border-white"></i></a></li>
-                                    <li><a href="https://twitter.com/" class="border-white"><i class="bi bi-twitter-x text-white "></i></a>
+                                    <li class=""><a href="<?=facebook?>" class="border-white"><i class="bx bxl-facebook text-white border-white"></i></a></li>
+                                    <li><a href="<?=twitter?>" class="border-white"><i class="bi bi-twitter-x text-white "></i></a>
                                     </li>
-                                    <li><a href="https://www.linkedin.com/" class="border-white"><i class="bx bxl-linkedin text-white"></i></a></li>
-                                    <li><a href="https://www.instagram.com/" class="border-white"><i class="bx bxl-instagram-alt text-white"></i></a></li>
+                                    <li><a href="<?=linkedin?>" class="border-white"><i class="bx bxl-linkedin text-white"></i></a></li>
+                                    <li><a href="<?=instagram?>" class="border-white"><i class="bx bxl-instagram-alt text-white"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -548,7 +549,7 @@
 <!-- Idea 
     Remove the margin given in the inline style in the parent div of this section
 -->
-<div class="home2-inner-banner" style="background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.40) 0%, rgba(0, 0, 0, 0.00) 100%), url(assets/images/inner-baner-bg.jpg); margin-bottom:130px;">
+<div class="home2-inner-banner" style="background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.40) 0%, rgba(0, 0, 0, 0.00) 100%), url(assets/images/inner-baner-bg.jpg); margin-bottom:180px;">
     <div class="clutch-logo btn_wrapper">
         <!-- <img src="assets/img/home2/clitch-big.png" alt> -->
     </div>
@@ -567,7 +568,7 @@
 
 
 <!-- Work -->
-<!-- <div class="home2-portfolio-section mb-">
+<div class="home2-portfolio-section mb-">
     <div class="container-lg container-fluid">
         <div class="row mb-60">
             <div class="col-lg-12">
@@ -595,8 +596,8 @@
                 <div class="portfolio-card magnetic-item">
                     <div class="image-and-tag">
                         <div class="portfolio-img">
-                            <img src="assets/img/home2/portfolio-01.jpg" alt>
-                            <a class="details-btn" href="portfolio-details.html">
+                            <img src="assets/images/IMG_0227.JPG" alt>
+                            <a class="details-btn" href="">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                                     <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                                     </path>
@@ -605,7 +606,7 @@
                         </div>
                     </div>
                     <div class="portfolio-content">
-                        <h4><a href="portfolio_details.php">Resources & Facilities.</a></h4>
+                        <h4><a href="portfolio.php">Euro Gold Hotel and Suites.</a></h4>
                     </div>
                 </div>
             </div>
@@ -613,8 +614,8 @@
                 <div class="portfolio-card magnetic-item">
                     <div class="image-and-tag">
                         <div class="portfolio-img">
-                            <img src="assets/img/home2/portfolio-02.jpg" alt>
-                            <a class="details-btn" href="portfolio_details.php">
+                            <img src="assets/images/hilton.jpg" alt>
+                            <a class="details-btn" href="portfolio.php">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                                     <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                                     </path>
@@ -623,7 +624,7 @@
                         </div>
                     </div>
                     <div class="portfolio-content">
-                        <h4><a href="portfolio_details.php">Quality Assurrance Management (QAM).</a></h4>
+                        <h4><a href="portfolio.php">Hilton Liesure Hotel & Resort.</a></h4>
                     </div>
                 </div>
             </div>
@@ -631,8 +632,8 @@
                 <div class="portfolio-card magnetic-item">
                     <div class="image-and-tag">
                         <div class="portfolio-img">
-                            <img src="assets/img/home2/portfolio-03.jpg" alt>
-                            <a class="details-btn" href="portfolio_details.php">
+                            <img src="assets/images/1142.jpg" alt>
+                            <a class="details-btn" href="portfolio.php">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                                     <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                                     </path>
@@ -641,7 +642,7 @@
                         </div>
                     </div>
                     <div class="portfolio-content">
-                        <h4><a href="portfolio_details.php">Health, Saety and Enviroment.</a></h4>
+                        <h4><a href="portfolio.php">TekHub.</a></h4>
                     </div>
                 </div>
             </div>
@@ -649,8 +650,8 @@
                 <div class="portfolio-card magnetic-item">
                     <div class="image-and-tag">
                         <div class="portfolio-img">
-                            <img src="assets/img/home2/portfolio-04.jpg" alt>
-                            <a class="details-btn" href="portfolio_details.php">
+                            <img src="assets/images/okeb.jpg" alt>
+                            <a class="details-btn" href="portfolio.php">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                                     <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                                     </path>
@@ -659,13 +660,13 @@
                         </div>
                     </div>
                     <div class="portfolio-content">
-                        <h4><a href="portfolio_details.php">Corporate Social Reponsibility.</a></h4>
+                        <h4><a href="portfolio.php">Okeb Nig. Limited.</a></h4>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div> -->
+</div>
 
 
 <!-- Team -->
@@ -777,22 +778,17 @@
     </div>
 </div> -->
 
-
-<!-- Partners -->
-<!-- <?php include './inc/partners.php' ?> -->
-
-
 <!-- Social Handles 
     Please note remove all inline styles for this section once the proper content from the cliet arrives
 -->
-<div class="home2-technology-section pb-130 " style="padding-bottom: 130px; background-color:white;">
+<div class="home2-technology-section pb-130 " style="padding-bottom: 130px;">
     <div class="container-lg container-fluid">
         <div class="row mb-60">
-            <div class="section-title four white text-animation" style="color:black;">
-                <h2 style="color:black;">Our Online <br><span>SPACES</span></h2>
+            <div class="section-title four white text-animation">
+                <h2>Our Online <br><span>SPACES</span></h2>
                 <div class="dash-and-paragraph three">
                     <div class="btn-and-paragraph">
-                        <p style="color:black;">To know more, reach out to us on any of our social media handles.</p>
+                        <p>To know more, reach out to us on any of our social media handles.</p>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
         <div class="row g-lg-4 gy-5">
             <div class="col-lg-8">
                 <div class="post-tag-and-title">
-                    <h1 class="post-title">Celebrates Major Milestone in Digital Services.</h1>
+                    <h1 class="post-title">.</h1>
                 </div>
             </div>
             <!--  -->

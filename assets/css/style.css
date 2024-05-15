@@ -2,8 +2,8 @@
 :root {
   --font-fahkwang: "Fahkwang", sans-serif;
   --font-unbounded: "Unbounded", sans-serif;
-  --primary-color: #ffa500;
-  --primary-color2: #ffa500;
+  --primary-color: #18b156;
+  --primary-color2: #18b156;
   --primary-color3: #1a1a1a;
   --primary-color4: #082419;
   --title-color: #1a1a1a;
@@ -720,7 +720,7 @@ body:not(.is-mobile) .tt-style-switch:hover {
   }
 }
 .sub-title h6 svg {
-  fill: var(--primary-color);
+  fill: #18b156 ;
 }
 .sub-title.two h6 {
   color: var(--white-color);
@@ -965,7 +965,7 @@ body:not(.is-mobile) .tt-style-switch:hover {
 }
 .section-title.five h2 span {
   font-family: var(--font-unbounded);
-  color: var(--paragraph-color);
+  color: var(--title-color);
 }
 .section-title.six h2 {
   font-size: 60px;
@@ -6548,7 +6548,7 @@ body:not(.is-mobile) .tt-style-switch:hover {
   font-family: var(--font-unbounded);
   font-size: 14px;
   font-weight: 500;
-  background-color: var(--primary-color);
+  background-color:#18b156;
   display: inline-block;
   line-height: 1;
   padding: 6px 18px;
@@ -7899,7 +7899,7 @@ footer .footer-btm .copyright-area p {
   margin-bottom: 0;
 }
 footer .footer-btm .copyright-area p a {
-  color: var(--white-color);
+  color: #18b156 ;
   transition: 0.35s;
 }
 footer .footer-btm .copyright-area p a:hover {
@@ -7927,7 +7927,7 @@ footer.style-2 {
   background: #000;
 }
 footer.style-2 .footer-top .footer-widget .subscribed-area .form-inner button {
-  background-color: var(--primary-color2);
+  background-color: #18b156;
 }
 footer.style-2
   .footer-top
@@ -8662,8 +8662,8 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   }
 }
 .sidebar-area .sidebar-menu-top-area .nav-right .sidebar-menu-close:hover {
-  background-color: #ff4820;
-  border-color: #ff4820;
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
 }
 .sidebar-area .sidebar-menu-top-area .nav-right .sidebar-menu-close:hover svg {
   fill: var(--white-color);
@@ -8845,7 +8845,8 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   ul
   .single-contact:hover
   .icon {
-  background-color: var(--title-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
 }
 .sidebar-area
   .sidebar-contact
@@ -10367,7 +10368,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   fill: var(--title-color);
 }
 .home2-process-section .single-process .content h3 {
-  color: var(--title-color);
+  color: var(--paragraph-color);
   font-family: var(--font-unbounded);
   font-size: 30px;
   font-weight: 400;
@@ -10440,7 +10441,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   transform: rotate(-90deg);
 }
 .home2-process-section .progress-wrapper svg stop {
-  stop-color: var(--primary-color2);
+  stop-color: #18b156;
 }
 .home2-process-section .progress-wrapper svg circle {
   stroke: #c9daed;
@@ -21415,6 +21416,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   transition: all 0.45s;
   opacity: 0;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-color: var(---dark-white-color);
@@ -21812,7 +21814,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   line-height: 1;
 }
 .contact-page .contact-info-wrap .single-location ul li .info a {
-  color: var(--paragraph-color);
+  color:var(--title-color);
   font-family: var(--font-unbounded);
   font-size: 14px;
   font-weight: 500;
