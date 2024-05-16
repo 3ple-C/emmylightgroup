@@ -2,7 +2,8 @@
 <!doctype html>
 <html lang="en">
 
-
+    <!-- Designed and Powered By Stitch-it-in Academy. Visit "https://www.stitchitin.com/" to know more about us or contact @stitchitin.com -->
+    
 <head>
 
     <meta charset="utf-8">
@@ -27,12 +28,12 @@
 </head>
 
 <body id="body" class="tt-smooth-scroll tt-magic-cursor">
-    <div id="magic-cursor">
+    <!-- <div id="magic-cursor">
         <div id="ball"></div>
     </div>
     <div class="tt-style-switch index-dark">
         <i class="bi bi-brightness-low-fill"></i>
-    </div>
+    </div> -->
 
     <div class="circle-container two">
         <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
@@ -61,7 +62,7 @@
                         </path>
                     </svg>
                 </div>
-                <a href="tel:+990737621432" class="header-btn btn-hover">
+                <a href="tel:<?=sitephone?>" class="header-btn btn-hover">
                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                         <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                         </path>

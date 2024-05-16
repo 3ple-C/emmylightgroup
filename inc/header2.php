@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from demo-egenslab.b-cdn.net/html/axleo/preview/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Apr 2024 15:20:41 GMT -->
+<!-- Designed and Powered By Stitch-it-in Academy. Visit "https://www.stitchitin.com/" to know more about us or contact @stitchitin.com -->
 
 <head>
 
@@ -58,7 +58,7 @@
                         </path>
                     </svg>
                 </div>
-                <a href="tel:+990737621432" class="header-btn btn-hover">
+                <a href="tel:<?= sitephone?>" class="header-btn btn-hover">
                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                         <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z">
                         </path>
@@ -269,7 +269,7 @@
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M18 0L11.1686 8.99601L18 18L9.0041 11.1605L0 18L6.83156 8.99601L0 0L9.0041 6.83156L18 0Z" />
                     </svg>
                 </div>
-                <a href="tel:+990737621432" class="header-btn btn-hover">
+                <a href="tel:<?=sitephone?>" class="header-btn btn-hover">
                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
                         <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z" />
                     </svg>

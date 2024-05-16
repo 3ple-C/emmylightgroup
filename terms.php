@@ -120,6 +120,6 @@
 <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from demo-egenslab.b-cdn.net/html/axleo/preview/terms-conditions.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Apr 2024 15:22:07 GMT -->
+<!-- Designed and Powered By Stitch-it-in Academy. Visit "https://www.stitchitin.com/" to know more about us or contact @stitchitin.com -->
 
 </html>

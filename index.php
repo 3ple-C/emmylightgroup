@@ -8,7 +8,7 @@
                 <div class="banner-content-wrap">
                     <h4 class="text-white m-0">EMMYLIGHT WORKS & SERVICES</h4>
 
-                    <h1 class="text-animation2" style="font-size: 62px;">
+                    <h1 class="text-animation2" >
                         <span>Providing excellence <br> & Creating Values,</span> Uniquely.
                     </h1>
 
@@ -1234,7 +1234,7 @@
 <!-- Footer -->
 <?php include 'inc/footer.php' ?>
 
-<script data-cfasync="false" src="https://demo-egenslab.b-cdn.net/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
 <script src="assets/js/jquery-3.7.1.min.js"></script>
 
 <script src="assets/js/popper.min.js"></script>
@@ -1269,5 +1269,6 @@
 </script>
 </body>
 
+<!-- Designed and Powered By Stitch-it-in Academy. Visit "https://www.stitchitin.com/" to know more about us or contact @stitchitin.com -->
 
 </html>

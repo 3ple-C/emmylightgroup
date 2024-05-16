@@ -65,14 +65,14 @@
                                                 </svg>
                                             </a>
                                         </li>
-                                        <!-- <li>
+                                         <li>
                                             <a href="./portfolio.php">Portfolio
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                                     <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                 </svg>
                                             </a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="blog.php">Blog 
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
                                                     <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
@@ -180,7 +180,7 @@
                 <!-- copyright -->
                 <div class="footer-btm">
                     <div class="copyright-area">
-                        <p>Copyright 2024 <a href="index.php">Emmylight works & Services Ltd</a> | Design By <a href="https://www.stitchitin.com/">Stitch-it-in </a></p>
+                        <p>Copyright 2024 <a href="index.php">Emmylight works & Services Ltd</a> | All rights reserved</p>
                     </div>
                     <!-- <div class="terms-condition">
                         <p>
@@ -193,7 +193,7 @@
                             Our Business <a href="terms.php">Policy, Terms & Condition</a>
                         </p>
                     </div>-->
-                </div> 
+                </div>
             </div>
         </div>
     </div>

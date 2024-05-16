@@ -11,7 +11,7 @@
                                 <div class="marquee__group">
                                     <a href="#"><img src="assets/images/image-150x60.jpg" alt></a>
                                     <a href="#"><img src="assets/images/image-150x60 (1).jpg" alt></a>
-                                    <a href="#"><img src="assets/images/image-150x60.jpg" alt></a>
+                                    <a href="#"><img src="assets/images/image-155x60.jpg" alt></a>
                                     <a href="#"><img src="assets/images/image-150x60 (1).jpg" alt></a>
                                     <a href="#"><img src="assets/images/image-150x60.jpg" alt></a>
                                     <a href="#"><img src="assets/images/image-150x60 (1).jpg" alt></a>
